@@ -1,0 +1,2 @@
+# Time-Series-Prediction-of-House-Hold-Electricity-Consumption
+Forecasted household electricity consumption using ARIMA on historical power usage data. Performed data cleaning, EDA, feature engineering (lag features), and model tuning. Achieved accurate predictions with ARIMA (2,1,2), enabling insight into future energy trends.  Skills: Python, ARIMA, Time Series Analysis, EDA, Feature Engineering, Forecasting
